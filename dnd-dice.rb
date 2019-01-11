@@ -44,3 +44,4 @@ end
 Dicecup.new([{6=> 5}, {20=> 1}, {12=> 3}, {10=> 0}]).group_roll
 # p bag
 # bag.group_roll
+
